@@ -1,0 +1,9 @@
+C:\Projects\WindowsForms\GoogleTranslator\obj\Debug\GoogleTranslator.csproj.AssemblyReference.cache
+C:\Projects\WindowsForms\GoogleTranslator\obj\Debug\GoogleTranslator.csproj.GenerateResource.cache
+C:\Projects\WindowsForms\GoogleTranslator\obj\Debug\GoogleTranslator.csproj.CoreCompileInputs.cache
+C:\Projects\WindowsForms\GoogleTranslator\obj\Debug\MyTranslator.GoogleTranslator.GoogleTranslatorFrm.resources
+C:\Projects\WindowsForms\GoogleTranslator\bin\Debug\AmirSff.MyTranslatorAssistant.exe.config
+C:\Projects\WindowsForms\GoogleTranslator\bin\Debug\AmirSff.MyTranslatorAssistant.exe
+C:\Projects\WindowsForms\GoogleTranslator\bin\Debug\AmirSff.MyTranslatorAssistant.pdb
+C:\Projects\WindowsForms\GoogleTranslator\obj\Debug\AmirSff.MyTranslatorAssistant.exe
+C:\Projects\WindowsForms\GoogleTranslator\obj\Debug\AmirSff.MyTranslatorAssistant.pdb
